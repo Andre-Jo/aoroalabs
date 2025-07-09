@@ -175,11 +175,6 @@ curl -X PATCH http://localhost:8080/issue/1 \
   }'
 ```
 
-### Postman을 사용한 테스트
-1. Postman 실행
-2. 새 Collection 생성
-3. 위의 curl 명령어들을 Postman 요청으로 변환하여 테스트
-
 ## 기본 사용자 정보
 시스템에 기본적으로 등록된 사용자들:
 - ID: 1, 이름: "김개발"
